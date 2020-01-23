@@ -1,0 +1,15 @@
+﻿body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    background-color: linen;
+}
+
+h1, h2 {
+    color: orangered;
+    background-color: peachpuff;
+    border-radius: 10px;
+    max-width: 25%;
+    min-width: 150px;
+    box-shadow: 1px 1px black;
+    padding: 2%;
+}
